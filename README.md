@@ -46,6 +46,7 @@
 });
 
 
+
 *Para el JS de la pagina de servicios*
  if (contenedorObras) {
         var obras = [
@@ -91,6 +92,10 @@
     if (precioTexto) {
         precioTexto.textContent = "$" + precioBaseActual.toLocaleString("es-CL") + " CLP";
     }
+
+
+
+
 
 
 
